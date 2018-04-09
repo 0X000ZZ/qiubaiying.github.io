@@ -1,14 +1,14 @@
 {
     "name": "zz-blog",
     "title": "zz`s Blog",
-    "author": "zz <zhangz123@protonmail.com>",
+    "author": "zz <hydrionz@protonmail.com>",
     "version": "1.7.0",
-    "homepage": "http://0x000zz.github.io",
+    "homepage": "http://hydrionz.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/0x000zz/0x000zz.github.io"
+        "url": "https://github.com/hydrionz/hydrionz.github.io"
     },
-    "bugs": "https://github.com/0x000zz/0x000zz.github.io/issues",
+    "bugs": "https://github.com/hydrionz/hydrionz.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
