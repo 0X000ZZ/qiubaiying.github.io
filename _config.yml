@@ -2,12 +2,12 @@
 title: zz`s Blog
 SEOTitle: zz`s Blog
 header-img: img/post-bg-2015.jpg
-email: zhangz123@protonmail.com
+email: hydrionz@protonmail.com
 description: "little MaNong..."
 keyword: "zz,java,Web"
-url: "http://0x000zz.github.io"          # your host, for absolute URL
+url: "http://hydrionz.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/0x000zz/0x000zz.github.io.git" # you code repository
+github_repo: "https://github.com/hydrionz/hydrionz.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/blog-header-img.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-#weibo_username:    zhangz123 
+#weibo_username:    
 #zhihu_username:     xxxx
 #github_username:    0x000zz
 #facebook_username:  xxxx
