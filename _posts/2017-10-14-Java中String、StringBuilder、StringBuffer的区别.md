@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Java中String、StringBuilder、StringBuffer的区别
-subtitle:   打造高并发/稳定的Tomcat
+subtitle:   必知的基本知识
 date:       2017-10-14
 author:     酥风
 header-img: img/home-bg-art.jpg
