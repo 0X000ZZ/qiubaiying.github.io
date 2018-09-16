@@ -8,8 +8,7 @@ header-img: img/home-bg-art.jpg
 catalog: true
 tags:
     - Java
-    - 面试
-    - 区别
+    - 基础知识
 ---
 
 【[来源](https://www.cnblogs.com/su-feng/p/6659064.html)】
