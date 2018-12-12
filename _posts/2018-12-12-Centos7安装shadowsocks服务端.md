@@ -72,15 +72,25 @@ shadowsocks使用json文件作为配置文件,因此,创建一个json文件,文�
 
 ```json
 {
+    
     "server":"0.0.0.0",
+    
     "server_port":9999,
+    
     "local_address": "127.0.0.1",
+    
     "local_port":1080,
+    
     "password":"zz",
+    
     "timeout":300,
+    
     "method":"aes-256-cfb",
+    
     "fast_open": true,
+    
     "workers":5
+    
 }
 ```
 
